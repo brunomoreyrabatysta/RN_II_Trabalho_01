@@ -83,7 +83,7 @@ const ProductDetails = () => {
                 <Label align="left" color="#000">Descrição</Label>
                 <Label1 align="left" color="#000">{product.description}</Label1>
                 <Label1 align="left" color="#000">Preço</Label1>
-                <Label align="left" color="#000">R$ {product.price.toPrecision(3)} / {product.unit}</Label>
+                <Label align="left" color="#000">R$ {product.price.toPrecision(3)} / {product.unit}</Label>s
             </ScrollView>            
                   
 
