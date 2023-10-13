@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993270844749",
+    "project_id": "riitrabalho01",
+    "storage_bucket": "riitrabalho01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993270844749:android:ce90b75ceb5636413ebb04",
+        "android_client_info": {
+          "package_name": "com.rn_ii_trabalho_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAhm3W1o794a4pbzegsH6MhKF9PwkVFx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
